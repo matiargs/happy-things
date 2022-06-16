@@ -1,0 +1,25 @@
+* {
+    font-family: "Work Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #ccd2d7;
+}
+
+body {
+    background-color: #001f35;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+li {
+    font-size: 3em;
+    display: inline;
+}
+
+li span {
+    font-size: .5em;
+}
+
+.title {
+    text-align: center;
+}
