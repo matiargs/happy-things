@@ -4,4 +4,4 @@ Listado de cosas que me ponen contento. [Acá](https://matiargs.com/digital-gard
 
 ## Technology
 
-HTML + CSS nada mas. Hosteado en Github Pages.
+HTML + CSS nada más. Hosteado en Github Pages.
